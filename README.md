@@ -1,1 +1,1 @@
-# AZ-WebContent
+The Goal of the assignment is to gain practical experienc in integrating diverse web content.
